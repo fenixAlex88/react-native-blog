@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e6e10eab-6265-4112-85c9-6ce83577582c"
+      }
+    },
+    "owner": "fenix_88"
   }
 }
